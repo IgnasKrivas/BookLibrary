@@ -1,0 +1,25 @@
+[
+  {
+    "Name": "The Witcher, The Last Wish",
+    "Author": "Andrej Sapkowski",
+    "Category": "Fantasy",
+    "Language": "English",
+    "PublicationDate": "2008-05-01T00:00:00",
+    "ISBN": "97803160291864"
+  },
+  {
+    "Name": "The Witcher, Sword of Destiny",
+    "Author": "Andrej Sapkowski",
+    "Category": "Fantasy",
+    "Language": "English",
+    "PublicationDate": "2015-12-01T00:00:00",
+    "ISBN": "9780316029186"
+  },
+  {
+    "Name": "The Witcher, Blood of Elves",
+    "Author": "Andrej Sapkowski",
+    "Category": "Fantasy",
+    "Language": "English",
+    "PublicationDate": "2018-05-08T00:00:00",
+    "ISBN": "0316438987"
+  }]
